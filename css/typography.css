@@ -1,0 +1,89 @@
+/* Timothy Framework - www.timothyframework.com */
+/* This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php */
+
+
+/* Color Legend */
+
+
+
+/* Headings */
+
+h1, h2, h3, h4, h5, h6 { font-weight: bold; color: #000; }
+
+h1 { font-size:24px; }
+h2 { font-size:20px; }
+h3 { font-size:16px; }
+h4 { font-size:14px; }
+h5 { font-size:14px; }
+h6 { font-size:14px; }
+
+
+/* Text Elements */
+
+p           	{ color:#000; font-size:12px; line-height:150%;  }
+a           	{   }
+
+a:link			{ color: #00f;  }
+a:visited		{ color: #0f0;  }
+a:active		{ color: #000;  }
+a:focus			{ color: #666;  }
+a:hover     	{ color: #f00;  }
+
+blockquote  	{ color:#000; font-size:12px; }
+
+strong      	{ font-weight: bold; }
+em		      	{ font-style: italic; }
+
+ul li		    { color:#000; font-size:12px; }
+ol li	     	{ color:#000; font-size:12px; }
+
+ul          	{  }
+ol          	{ list-style-type:decimal; }
+
+
+/* Tables */
+
+table       	{ width:100%; }
+
+th          	{ font-weight: bold; }
+thead, th    	{ 	}
+
+tbody			{   }
+
+th,td,caption 	{ 	}
+caption 		{ 	}
+
+tfoot       	{	}
+.tfooter		{ font-style:italic; }
+
+caption     	{ 	}
+
+
+/* Miscellaneous  */
+
+.copyright-text	{ font-size:80%; font-style:italic; color:#333; }
+.footer-text	{ font-size:80%; font-style:normal; color:#666; }
+
+.title			{ font-size:18px; font-weight:bold; color:#333;  }
+.subtitle		{ font-size:14px; font-style:italic; color:#333;  }
+
+.artist			{ font-size:16px; font-weight:bold; color:#333;  }
+.author			{ font-size:14px; font-weight:bold; color:#555;  }
+.editor			{ font-size:14px; font-style:italic; color:#555;  }
+
+.pub-date		{ font-size:10px font-style:italic; color:#555; }
+.article-date	{ font-size:10px font-style:italic; color:#555;  }
+.location		{ font-size:10px font-style:italic; color:#555;  }
+
+.hide			{ display:none; }
+.block			{ display:block; }
+.inline			{ display:inline; }
+
+.first			{ font-weight:bold; }
+.last			{ font-weight:bold; }
+.left			{ font-weight:bold; text-align:left; }
+.right			{ font-weight:bold; text-align:right; }
+
+.added      	{ background:#D7D7FF; }
+.removed    	{ background:#FFCECE; color:#f00; }
+.changed		{ background:#FFB; }
